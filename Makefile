@@ -1,7 +1,7 @@
 RM = rm -f
 
 CC = CC 
-FC = gfortran
+FC = /usr/bin/gfortran
 
 CFLAGS = -C   
 INCLUDES = 
