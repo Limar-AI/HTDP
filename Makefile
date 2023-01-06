@@ -1,7 +1,7 @@
 RM = rm -f
 
 CC = CC 
-FC = f90
+FC = gfortran
 
 CFLAGS = -C   
 INCLUDES = 
